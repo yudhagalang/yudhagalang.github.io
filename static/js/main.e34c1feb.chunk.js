@@ -1,0 +1,2 @@
+(this["webpackJsonptudstech-site"]=this["webpackJsonptudstech-site"]||[]).push([[0],{11:function(e,t,c){"use strict";c.r(t);var n=c(1),s=c.n(n),i=c(3),r=c.n(i),d=(c(8),c(9),c(0));var o=function(){return Object(d.jsx)("div",{className:"App",children:Object(d.jsx)("header",{className:"App-header",children:Object(d.jsx)("h1",{children:"Coming Soon"})})})};r.a.render(Object(d.jsx)(s.a.StrictMode,{children:Object(d.jsx)(o,{})}),document.getElementById("root"))},8:function(e,t,c){},9:function(e,t,c){}},[[11,1,2]]]);
+//# sourceMappingURL=main.e34c1feb.chunk.js.map
